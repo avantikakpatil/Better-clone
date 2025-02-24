@@ -69,9 +69,3 @@ How to use css variables to control things like colors and fonts for the entire 
   --tertiary-color: #6f6f6f;
 }
 ```
-
-## Author
-
-- Website - [Hillary Wando](http://hillarywando.com/)
-- Codepen - [@Wandonium](https://codepen.io/wandonium)
-- Twitter - [@hillarywando](https://www.twitter.com/hillarywando)
